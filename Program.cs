@@ -22,3 +22,8 @@ class Program
                 result = temp;
             }
         }
+
+        
+        Console.WriteLine("Filtered array: [" + string.Join(",", result) + "]");
+    }
+}
