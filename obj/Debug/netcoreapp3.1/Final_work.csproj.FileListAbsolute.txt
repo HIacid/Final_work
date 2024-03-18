@@ -1,0 +1,14 @@
+C:\Users\79162\Desktop\hmw\Final_work\bin\Debug\netcoreapp3.1\Final_work.exe
+C:\Users\79162\Desktop\hmw\Final_work\bin\Debug\netcoreapp3.1\Final_work.deps.json
+C:\Users\79162\Desktop\hmw\Final_work\bin\Debug\netcoreapp3.1\Final_work.runtimeconfig.json
+C:\Users\79162\Desktop\hmw\Final_work\bin\Debug\netcoreapp3.1\Final_work.runtimeconfig.dev.json
+C:\Users\79162\Desktop\hmw\Final_work\bin\Debug\netcoreapp3.1\Final_work.dll
+C:\Users\79162\Desktop\hmw\Final_work\bin\Debug\netcoreapp3.1\Final_work.pdb
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.csproj.AssemblyReference.cache
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.AssemblyInfoInputs.cache
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.AssemblyInfo.cs
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.csproj.CoreCompileInputs.cache
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.dll
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.pdb
+C:\Users\79162\Desktop\hmw\Final_work\obj\Debug\netcoreapp3.1\Final_work.genruntimeconfig.cache
