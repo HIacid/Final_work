@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace Final_work
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+        Console.WriteLine("Enter array's element divided by comma:");
+        string input = Console.ReadLine();
+        string[] originalArray = input.Split(',');
+
+        Console.WriteLine("Array: [" + string.Join(", ", originalArray) + "]");
+
+        string[] result = new string[0];
